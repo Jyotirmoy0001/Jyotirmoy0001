@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/jyotirmoy_13" target="blank"><img src="https://img.shields.io/twitter/follow/jyotirmoy_13?logo=twitter&style=for-the-badge" alt="jyotirmoy_13" /></a> </p>
 
-- 🌱 I’m currently learning **Programming**
+- 🌱 I’m currently learning **Software Developing**
 
-- 👨‍💻 All of my projects are available at [https://jyotirmoy120.github.io/Jyotirmoy-animated-portfolio/](https://jyotirmoy120.github.io/Jyotirmoy-animated-portfolio/)
+- 👨‍💻 All of my projects are available at [https://github.com/Jyotirmoy120](https://github.com/Jyotirmoy120)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React JS, NodeJS, ExpressJS, Django, C++**
+- 💬 Ask me about **HTML, CSS, JavaScript, React JS, NodeJS, ExpressJS, Django, C++, C**
 
-- 📫 How to reach me **raja.raja1707.2004@gmail.com**
+- 📫 How to reach me **jyotirmoyofficial00@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1IIYCWjDb0oFM2XqNjKFKNOvesCXfwtCv/view?usp=sharing](https://drive.google.com/file/d/1IIYCWjDb0oFM2XqNjKFKNOvesCXfwtCv/view?usp=sharing)
 
