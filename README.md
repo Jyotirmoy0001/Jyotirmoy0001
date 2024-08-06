@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **jyotirmoyofficial00@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IIYCWjDb0oFM2XqNjKFKNOvesCXfwtCv/view?usp=sharing](https://drive.google.com/file/d/1IIYCWjDb0oFM2XqNjKFKNOvesCXfwtCv/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/19AJztiP6XipDOf6N-iEoQOh9KINCVAFx/view?usp=sharing](https://drive.google.com/file/d/19AJztiP6XipDOf6N-iEoQOh9KINCVAFx/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
